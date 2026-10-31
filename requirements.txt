@@ -2,4 +2,8 @@ streamlit
 ultralytics
 pillow
 numpy
+pandas
 google-genai
+# Optional - only needed for the ONNX latency benchmark in evaluate.py:
+# onnx
+# onnxruntime
